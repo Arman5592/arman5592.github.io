@@ -1,6 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ISLPED":
+  url: https://www.islped.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"DAC":
+  url: https://www.dac.com/
+  color: "#f47939"
+
+"NocArc":
+  url: https://www.nocarc.org/
+  color: "#084fc0"
