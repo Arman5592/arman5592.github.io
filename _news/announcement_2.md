@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a band 8.5 in IELTS Academic. 
+I received a band 8.5 in IELTS Academic 
