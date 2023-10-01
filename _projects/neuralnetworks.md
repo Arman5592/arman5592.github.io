@@ -4,7 +4,7 @@ title: Neural Networks
 description: Function approximation, MNIST classification and denoising
 img: assets/img/NeuralNetworks.png
 importance: 1
-category: University
+category: university
 related_publications:
 ---
 
