@@ -11,3 +11,5 @@ related_publications:
 [Corresponding repository](https://github.com/Arman5592/Multicore_Computing)
 
 Implemented green-screen using CUDA and AVX2, Sobel edge detection using CUDA, image inversion using CUDA, and multiple simpler algorithms using CUDA and/or AVX.
+
+(Image source: WikiPedia)
