@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mohammad Arman Soleimani",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "soleimaniarman98@gmail.com",
+    "email": "arman.soleimani@sharif.edu",
+    "url": "https://arman5592.github.io/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -63,12 +61,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Farsi",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "C2 (IELTS Academic 8.5)"
     }
   ],
   "interests": [],
