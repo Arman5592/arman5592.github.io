@@ -3,14 +3,11 @@
     "name": "Mohammad Arman Soleimani",
     "image": "",
     "email": "soleimaniarman98@gmail.com",
-    "email": "arman.soleimani@sharif.edu",
+    "email (alternate)": "arman.soleimani@sharif.edu",
     "url": "https://arman5592.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Tehran",
+      "country": "Iran"
     },
     "profiles": [
       {
