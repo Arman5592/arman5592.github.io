@@ -11,11 +11,7 @@
       "country": "Iran"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
+      
     ]
   },
   "work": [
@@ -94,8 +90,8 @@
       "studyType": "Undergraduate",
       "startDate": "Sep '19",
       "endDate": "Now",
-      "score": "19.17 (20-point scale)",
       "courses": [
+        "GPA: 19.17 (20-point scale)",
         "Undergraduate thesis topic: Processing in memory for DRAM"
       ]
     }
@@ -122,16 +118,17 @@
   ],
   "certificates": [],
   "publications": [
-    "Rohbani, Nezam, Mohammad Arman Soleimani, and Hamid Sarbazi-Azad. \"CoolDRAM: An Energy-Efficient and Robust DRAM.\" 2023 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED). IEEE, 2023. (Received Best Paper in Track 1)",
-    "Rohbani, Nezam, Mohammad Arman Soleimani, and Hamid Sarbazi-Azad. \"PIPF-DRAM: processing in precharge-free DRAM.\" Proceedings of the 59th ACM/IEEE Design Automation Conference. 2022."
   ],
   "skills": [
     {
-      "Programming": "C/C++, Python, Java, Arduino",
-      "Hardware Description": "Verilog",
-      "Libraries": "Matplotlib, Keras, Scikit-Learn",
-      "Tools": "HSPICE, ModelSim, Xilinx ISE, Quartus, gem5 (learning), Edge Impulse"
+      "name": "pppp",
+      "keywords": ["ads", "aasd"],
+    },
+    {
+      "name": "ppp2p",
+      "keywords": ["a2ds", "a2asd"],
     }
+    
   ],
   "languages": [
     {
