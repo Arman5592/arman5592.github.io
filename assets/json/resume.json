@@ -120,13 +120,43 @@
   "publications": [],
   "skills": [
     {
-      "name": "pppp",
-      "keywords": ["ads", "aasd"],
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "Java",
+        "Arduino"
+      ]
     },
     {
-      "name": "ppp2p",
-      "keywords": ["a2ds", "a2asd"],
-    }
+      "name": "Hardware Description",
+      "level": "Master",
+      "keywords": [
+        "Verilog"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "Master",
+      "keywords": [
+        "Matplotlib",
+        "Keras",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": [
+        "HSPICE",
+        "Modelsim",
+        "Xilinx ISE",
+        "Quartus",
+        "gem5 (learning)",
+        "Edge Impulse"
+      ]
+    },
   ],
   "languages": [
     {
