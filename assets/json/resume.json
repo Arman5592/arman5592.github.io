@@ -18,29 +18,50 @@
       }
     ]
   },
-  "work": [
+  "Research Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Institute for Research in Fundamental Sciences (IPM) and Sharif University of Technology",
+      "position": "Research Assistant",
+      "startDate": "September 2021",
+      "endDate": "Present",
+      "summary": "Explored processing-in-memory techniques for DRAM and SRAM",
       "highlights": [
-        "Relativity"
+        "Analyzed novel methods for in-memory bit-wise operations and hyper-dimensional computing",
+        "Co-authored two papers published in DAC and ISLPED, one accepted at NocArc, and two under review for HPCA"
+      ]
+    },
+    {
+      "name": "Sharif University of Technology",
+      "position": "Research Assistant",
+      "startDate": "July 2023",
+      "endDate": "September 2023",
+      "summary": "Implemented real-time scheduling algorithms using Reinforcement Learning (RL)",
+      "highlights": [
+        "Simulated various algorithms and experimented with different setups",
+        "Contributed to two papers in preparation"
+      ]
+    },
+    {
+      "name": "EPFL",
+      "position": "Research Intern",
+      "startDate": "July 2022",
+      "endDate": "September 2022",
+      "summary": "Accepted at the Summer@EPFL research internship program",
+      "highlights": [
+        "Studied the state-of-the-art in ASIC and FPGA routing using Reinforcement Learning (RL)",
+        "Tested different implementations and presented results"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Sharif University of Technology, Tehran, Iran",
+      "area": "Computer Engineering",
+      "studyType": "Undergraduate",
+      "startDate": "2019",
+      "endDate": "Present",
+      "score": "19.17 (20-point scale)",
       "courses": [
         "Theory of Relativity"
       ]
