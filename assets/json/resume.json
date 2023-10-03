@@ -96,21 +96,43 @@
       "endDate": "Now",
       "score": "19.17 (20-point scale)",
       "courses": [
-        "Theory of Relativity"
+        "Undergraduate thesis topic: Processing in memory for DRAM"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Paper in Track 1",
+      "date": "2023",
+      "awarder": "ISLPED 2023",
+      "summary": "For our paper \"CoolDRAM: An Energy-Efficient and Robust DRAM\""
+    },
+    {
+      "title": "National University Extrance Exams (Concours)",
+      "date": "2019",
+      "awarder": "Ranked 12th out of over 150,000 participants",
+      "summary": "Mathematics and technology track"
+    },
+    {
+      "title": "National University Extrance Exams (Concours)",
+      "date": "2019",
+      "awarder": "Ranked 6th out of over 130,000 participants",
+      "summary": "English language track"
     }
   ],
   "certificates": [],
-  "publications": [],
-  "skills": [],
+  "publications": [
+    "Rohbani, Nezam, Mohammad Arman Soleimani, and Hamid Sarbazi-Azad. \"CoolDRAM: An Energy-Efficient and Robust DRAM.\" 2023 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED). IEEE, 2023. (Received Best Paper in Track 1)",
+    "Rohbani, Nezam, Mohammad Arman Soleimani, and Hamid Sarbazi-Azad. \"PIPF-DRAM: processing in precharge-free DRAM.\" Proceedings of the 59th ACM/IEEE Design Automation Conference. 2022."
+  ],
+  "skills": [
+    {
+      "Programming": "C/C++, Python, Java, Arduino",
+      "Hardware Description": "Verilog",
+      "Libraries": "Matplotlib, Keras, Scikit-Learn",
+      "Tools": "HSPICE, ModelSim, Xilinx ISE, Quartus, gem5 (learning), Edge Impulse"
+    }
+  ],
   "languages": [
     {
       "language": "Farsi",
