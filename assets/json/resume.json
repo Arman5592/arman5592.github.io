@@ -117,19 +117,8 @@
     }
   ],
   "certificates": [],
-  "publications": [
-  ],
-  "skills": [
-    {
-      "name": "pppp",
-      "keywords": ["ads", "aasd"],
-    },
-    {
-      "name": "ppp2p",
-      "keywords": ["a2ds", "a2asd"],
-    }
-    
-  ],
+  "publications": [],
+  "skills": [],
   "languages": [
     {
       "language": "Farsi",
