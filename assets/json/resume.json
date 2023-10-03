@@ -22,8 +22,8 @@
     {
       "name": "Institute for Research in Fundamental Sciences (IPM) and Sharif University of Technology",
       "position": "Research Assistant",
-      "startDate": "September 2021",
-      "endDate": "Present",
+      "startDate": "Sep '21",
+      "endDate": "Now",
       "summary": "Explored processing-in-memory techniques for DRAM and SRAM",
       "highlights": [
         "Analyzed novel methods for in-memory bit-wise operations and hyper-dimensional computing",
@@ -33,8 +33,8 @@
     {
       "name": "Sharif University of Technology",
       "position": "Research Assistant",
-      "startDate": "July 2023",
-      "endDate": "September 2023",
+      "startDate": "Jul '23",
+      "endDate": "Sep '23",
       "summary": "Implemented real-time scheduling algorithms using Reinforcement Learning (RL)",
       "highlights": [
         "Simulated various algorithms and experimented with different setups",
@@ -44,8 +44,8 @@
     {
       "name": "EPFL",
       "position": "Research Intern",
-      "startDate": "July 2022",
-      "endDate": "September 2022",
+      "startDate": "Jul '22",
+      "endDate": "Sep '22",
       "summary": "Accepted at the Summer@EPFL research internship program",
       "highlights": [
         "Studied the state-of-the-art in ASIC and FPGA routing using Reinforcement Learning (RL)",
@@ -59,8 +59,8 @@
       "institution": "Sharif University of Technology, Tehran, Iran",
       "area": "Computer Engineering",
       "studyType": "Undergraduate",
-      "startDate": "2019",
-      "endDate": "Present",
+      "startDate": "Sep '19",
+      "endDate": "Now",
       "score": "19.17 (20-point scale)",
       "courses": [
         "Theory of Relativity"
