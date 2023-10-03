@@ -31,6 +31,16 @@
       ]
     },
     {
+      "name": "Pezhvak AI",
+      "position": "Intern",
+      "startDate": "Oct '23",
+      "endDate": "Now",
+      "summary": "Studying Natural Language Processing using Deep Learning",
+      "highlights": [
+        "Utilizing language models for Farsi tasks"
+      ]
+    },
+    {
       "name": "Sharif University of Technology",
       "position": "Research Assistant",
       "startDate": "Jul '23",
@@ -53,7 +63,30 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "name": "Sharif University of Technology",
+      "position": "Teaching Assistant",
+      "startDate": "Sep '20",
+      "endDate": "Now",
+      "summary": "Volunteered as a TA in various courses",
+      "highlights": [
+        "Assisted with assignments in Operating Systems, Linear Algebra, Computer Architecture, Logic Design, Digital System Design, Computer Structure, and Fundamentals of Programming",
+        "Developed course projects for Embedded Systems and Operating Systems"
+      ]
+    },
+    {
+      "name": "MadeInLobby Event, Sharif University of Technology",
+      "position": "Mentor, IoT workshop",
+      "startDate": "Jul '21",
+      "endDate": "Sep '21",
+      "summary": "Volunteered as a mentor for IoT workshops for new students",
+      "highlights": [
+        "Tutored students on Arduino programming and basic electronics",
+        "Guided participants on their projects"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Sharif University of Technology, Tehran, Iran",
@@ -81,11 +114,11 @@
   "languages": [
     {
       "language": "Farsi",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "C2 (IELTS Academic 8.5)"
+      "fluency": "C2, IELTS Academic band 8.5 (S:9, L:9, R:9, W:7.5)"
     }
   ],
   "interests": [],
