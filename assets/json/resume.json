@@ -10,9 +10,7 @@
       "city": "Tehran",
       "country": "Iran"
     },
-    "profiles": [
-      
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -156,7 +154,7 @@
         "gem5 (learning)",
         "Edge Impulse"
       ]
-    },
+    }
   ],
   "languages": [
     {
