@@ -25,14 +25,12 @@
       ]
     },
     {
-      "name": "Pezhvak AI",
+      "name": "Zista Gene Afarin",
       "position": "Intern",
       "startDate": "Oct '23",
       "endDate": "Now",
-      "summary": "Studying Natural Language Processing using Deep Learning",
-      "highlights": [
-        "Utilizing language models for Farsi tasks"
-      ]
+      "summary": "",
+      "highlights": []
     },
     {
       "name": "Sharif University of Technology",
@@ -119,7 +117,6 @@
   "skills": [
     {
       "name": "Programming",
-      "level": "Master",
       "keywords": [
         "C/C++",
         "Python",
@@ -129,14 +126,12 @@
     },
     {
       "name": "Hardware Description",
-      "level": "Master",
       "keywords": [
         "Verilog"
       ]
     },
     {
       "name": "Libraries",
-      "level": "Master",
       "keywords": [
         "Matplotlib",
         "Keras",
@@ -145,7 +140,6 @@
     },
     {
       "name": "Tools",
-      "level": "Master",
       "keywords": [
         "HSPICE",
         "Modelsim",
