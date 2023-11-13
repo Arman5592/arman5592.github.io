@@ -29,20 +29,14 @@
 }
 
 @inproceedings{safari2023ocra,
-  title={OCRA: An Oblivious Congested Region Avoiding Routing Algorithm for 3D NoCs},
-  abbr={NocArc},
-  selected={false},
-  author={Safari, Maede and Rohbani, Nezam and Soleimani, Mohammad Arman and Sarbazi-Azad, Hamid},
-  booktitle={16th edition of International Workshop on Network on Chip Architectures (NoCArc '23)},
-  year={2023},
-  html = {https://www.nocarc.org/program},
-  organization={ACM}
-}
-
-@inproceedings{soleimani2024hpca,
-  title={Two manuscripts currently being reviewed},
-  selected={false},
-  booktitle={2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA)},
-  year={2024},
-  organization={IEEE}
+author = {Safari, Maede and Rohbani, Nezam and Soleimani, Mohammad Arman and Sarbazi-Azad, Hamid},
+title = {OCRA: An Oblivious Congested Region Avoiding Routing Algorithm for 3D NoCs},
+year = {2023},
+abbr={NocArc},
+selected={false},
+html = {https://doi.org/10.1145/3610396.3618092},
+doi = {10.1145/3610396.3618092},
+abstract = {The Three-Dimensional Network on Chip (3D NoC) is an interconnection architecture designed to address the increasing communication demands between processing cores. However, as traffic and power density continues to rise, efficient traffic management and thermal regulation within these chips have become crucial issues. One common problem encountered in mesh-based NoC structures, regardless of the routing approach employed, is traffic congestion in the central region. This paper introduces a novel routing algorithm named an Oblivious Congested Region Avoiding Routing Algorithm (OCRA) to evenly distribute packet flow across the entire network.OCRA addresses the traffic imbalance by statically configuring specific routers located in the east and west of each layer in a 3D NoC using YXZ and YZX and configuring other routers using XYZ. This configuration aims to minimize traffic congestion in the network, reduce total queuing delay and improve packet latency. The paper explores various configurations for OCRA, and simulation results on a cycle-accurate simulator indicate that a specific configuration known as Pyramidical achieves a 51.67\% improvement in traffic load distribution across the network. Additionally, this configuration reduces average queuing delay by 48.7\% and improves the performance of the saturated 3D NoC by 35.24\% with no impact on chip area.},
+booktitle = {Proceedings of the 16th International Workshop on Network on Chip Architectures},
+pages = {40–45},
 }
